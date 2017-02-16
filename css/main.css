@@ -15,7 +15,6 @@ html {
   text-align: center;
 }
 
-
 h1 {
   color: #fff;
 }
@@ -47,8 +46,7 @@ li {
   }
 
   .logo {
-    text-align: right;
+    text-align: center;
   }
-
 
 }
