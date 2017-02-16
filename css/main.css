@@ -11,6 +11,11 @@ html {
   text-align: center;
 }
 
+.logo {
+  text-align: center;
+}
+
+
 h1 {
   color: #fff;
 }
@@ -23,6 +28,7 @@ li {
   background-color: #15114c;
   color: #fff;
   border: none;
+  border-radius: 10px;
 }
 
 .btn:hover {
@@ -39,5 +45,10 @@ li {
   .nav {
     text-align: right;
   }
+
+  .logo {
+    text-align: right;
+  }
+
 
 }
